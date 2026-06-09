@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**nabilsaiyan/nabilsaiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+### Nabil Amhaouch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I build fast, polished web and mobile applications.**  
+From idea to production — clean code, great UI, real results.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-060d1c?style=for-the-badge&logo=vercel&logoColor=13efff)](your-portfolio-url)
+[![Email](https://img.shields.io/badge/Gmail-060d1c?style=for-the-badge&logo=gmail&logoColor=13efff)](mailto:nabil.amhaouch.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-060d1c?style=for-the-badge&logo=linkedin&logoColor=13efff)](your-linkedin-url)
+
+<br/>
+
+![React](https://img.shields.io/badge/React-0d1f35?style=flat-square&logo=react&logoColor=13efff)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1f35?style=flat-square&logo=typescript&logoColor=13efff)
+![Next.js](https://img.shields.io/badge/Next.js-0d1f35?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-0d1f35?style=flat-square&logo=react&logoColor=a448e5)
+![Node.js](https://img.shields.io/badge/Node.js-0d1f35?style=flat-square&logo=nodedotjs&logoColor=13efff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1f35?style=flat-square&logo=postgresql&logoColor=13efff)
+![Three.js](https://img.shields.io/badge/Three.js-0d1f35?style=flat-square&logo=threedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1f35?style=flat-square&logo=tailwindcss&logoColor=13efff)
+
+<br/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabilsaiyan&show_icons=true&theme=transparent&hide_border=true&title_color=13efff&icon_color=a448e5&text_color=e8f4ff&bg_color=060d1c&hide=stars)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilsaiyan&layout=compact&theme=transparent&hide_border=true&title_color=13efff&text_color=e8f4ff&bg_color=060d1c)
+
+<br/>
+
+</div>
