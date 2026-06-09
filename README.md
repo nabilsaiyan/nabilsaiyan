@@ -9,9 +9,7 @@ From idea to production — clean code, great UI, real results.
 
 <br/>
 
-[![](https://img.shields.io/badge/-060d1c?logo=vercel&logoColor=13efff&style=flat-square)](your-portfolio-url)
-[![](https://img.shields.io/badge/-060d1c?logo=gmail&logoColor=13efff&style=flat-square)](mailto:nabil.amhaouch.dev@gmail.com)
-[![](https://img.shields.io/badge/-060d1c?logo=linkedin&logoColor=13efff&style=flat-square)](your-linkedin-url)
+[nabilamhaouch.dev](https://www.nabilamhaouch.dev) · nabil.amhaouch.dev@gmail.com · [linkedin](https://www.linkedin.com/in/nabil-amhaouch)
 
 <br/>
 
