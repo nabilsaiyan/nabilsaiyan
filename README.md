@@ -9,9 +9,9 @@ From idea to production — clean code, great UI, real results.
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-060d1c?style=for-the-badge&logo=vercel&logoColor=13efff)](your-portfolio-url)
-[![Email](https://img.shields.io/badge/Gmail-060d1c?style=for-the-badge&logo=gmail&logoColor=13efff)](mailto:nabil.amhaouch.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-060d1c?style=for-the-badge&logo=linkedin&logoColor=13efff)](your-linkedin-url)
+[![](https://img.shields.io/badge/-060d1c?logo=vercel&logoColor=13efff&style=flat-square)](your-portfolio-url)
+[![](https://img.shields.io/badge/-060d1c?logo=gmail&logoColor=13efff&style=flat-square)](mailto:nabil.amhaouch.dev@gmail.com)
+[![](https://img.shields.io/badge/-060d1c?logo=linkedin&logoColor=13efff&style=flat-square)](your-linkedin-url)
 
 <br/>
 
@@ -23,12 +23,6 @@ From idea to production — clean code, great UI, real results.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1f35?style=flat-square&logo=postgresql&logoColor=13efff)
 ![Three.js](https://img.shields.io/badge/Three.js-0d1f35?style=flat-square&logo=threedotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0d1f35?style=flat-square&logo=tailwindcss&logoColor=13efff)
-
-<br/>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabilsaiyan&show_icons=true&theme=transparent&hide_border=true&title_color=13efff&icon_color=a448e5&text_color=e8f4ff&bg_color=060d1c&hide=stars)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilsaiyan&layout=compact&theme=transparent&hide_border=true&title_color=13efff&text_color=e8f4ff&bg_color=060d1c)
 
 <br/>
 
